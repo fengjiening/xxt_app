@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--弹框-->
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+
+
+    <!--导航-->
+    <color name="menu_fragment_background">#B3000000</color>
+    <color name="menu_item_background">#fff</color>
+    <color name="divider_color">#b5b5b5</color>
+
+
+    <color name="gray">#21252a</color>
+    <color name="orange">#ff8c6a</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#ff14445a</color>
+
+    <color name="colorWhite">#FFF</color>
+    <color name="transparent">#0000</color>
+    <color name="text_black">#737373</color>
+    <color name="text_grey">#9DA0A3</color>
+
+    <color name="divider">#e6e6e6</color>
+    <color name="main_bkcolor">#f8f8fd</color>
+    <color name="tital_bkcolor">#FFF</color>
+</resources>
